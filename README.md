@@ -33,7 +33,7 @@ The PNGs are used to create the animated GIF.
 
 ## Additional
 Once you get more comfortable with this approach you can get even more fancy!
-These are some animations from my PhD defense that I'd like to share with you before they inadvertently will get lost on my hard drive ;)
+These are some animations from my PhD defense that I'd like to share with you before they inadvertently will get lost on my hard drive ;) 
 
 <img src="frames/scooter.gif" width="550">
 
