@@ -30,3 +30,13 @@ You can also have multiple variables for more advanced aminations by adapting th
 After pasting your beautiful TikZ code, the externalize package will create each frame as a PDF in the frames directory.
 After running the bash script, each frame is converted from a PDF to a PNG.
 The PNGs are used to create the animated GIF.
+
+## Additional
+Once you get more comfortable with this approach you can get even more fancy!
+These are some animations from my PhD defense that I'd like to share with you before they inadvertently will get lost on my hard drive ;)
+
+<img src="frames/scooter.gif" width="550">
+
+<img src="frames/heart.gif" width="400">
+
+<img src="frames/cone.gif" width="400">
